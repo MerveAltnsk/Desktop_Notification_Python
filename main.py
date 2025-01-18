@@ -1,9 +1,9 @@
 from plyer import notification
 import time
 
-title = 'Hi, Hello and Hi !'
+title = 'Hello,'
 
-message = 'IAgent M! My mission to you is: Smile, dance, and conquer the day with laughter! This message will disappear in a few seconds... or maybe it wont! 😎🕶️💼🎉✨'
+message = 'Agent M! My mission to you is: Smile, dance, and conquer the day with laughter! This message will disappear in a few seconds... or maybe it wont! 😎💼🎉✨'
 
 try:
     # Send the notification
